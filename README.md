@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Codewars Badge](https://www.codewars.com/users/mr-fox93/badges/large?theme=light)
 
+<a href="https://www.codewars.com/users/mr-fox93">![Codewars Badge](https://www.codewars.com/users/mr-fox93/badges/large?theme=light)</a>
 
 <!--
 **mr-fox93/mr-fox93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
