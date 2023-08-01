@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-React Projects:
-Rick&Morthy: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ 💻
-RestAPI Countries:  https://mr-fox93.github.io/React-RestAPI-Countries/ 
+React Projects 💻:
+<div style={{display:"flex", flexDirection:"columns"}}></div>
+<p>Rick&Morthy: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
+<p>RestAPI Countries:  https://mr-fox93.github.io/React-RestAPI-Countries/ </p>
 
 
 
