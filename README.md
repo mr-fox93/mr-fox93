@@ -8,6 +8,7 @@ React Projects with JS 💻:
 
 React Projects with TS ⌨️ :
 <p>TS simple TO-DO List: https://mr-fox93.github.io/TS-React-Todo/</p>
+<p>TS Unsplash API: https://mr-fox93.github.io/unsplash/</p>
 
 
 
