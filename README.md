@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h1>My fav projects 🌱</h1>
+<p></p>GAME APP / React.js / TS: https://game-481q6mgi0-mr-fox93s-projects.vercel.app/</p>
+<p>Rick&Morthy / React.js / JS: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
+
+<h2>Other projects in TS / JS ⌨️ </h2>
+
 React Projects with JS 💻:
 <div style={{display:"flex", flexDirection:"columns"}}></div>
 <p>Rick&Morthy: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
@@ -7,6 +13,7 @@ React Projects with JS 💻:
 
 
 React Projects with TS ⌨️ :
+<p>Game App: https://game-481q6mgi0-mr-fox93s-projects.vercel.app/ </p>
 <p>TS simple TO-DO List: https://mr-fox93.github.io/TS-React-Todo/</p>
 <p>TS Unsplash API: https://mr-fox93.github.io/unsplash/</p>
 
