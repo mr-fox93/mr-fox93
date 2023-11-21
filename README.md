@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1>Working with:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,git,vite,vscode,react,styledcomponents,figma,html,css,)](https://skillicons.dev)
@@ -52,6 +51,9 @@ Here are some ideas to get you started:
   <img height="85"  src="https://reactrouter.com/twitterimage.jpg""></a>&nbsp;&nbsp;
     <img height="85"    src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"
 ></a>&nbsp;&nbsp;
+    <img height="85"    src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560"
+></a>&nbsp;&nbsp;
+
 </p>
 
 <h2>Learning ... </h2>
