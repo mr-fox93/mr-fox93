@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 <h1>Working with:</h1>
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,vite,vscode,react,styledcomponents,figma,html,css,)](https://skillicons.dev)
+
 <p>
     <a href="https://reactjs.org/"><img height="85" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="85" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></a>&nbsp;&nbsp;
@@ -53,12 +55,10 @@ Here are some ideas to get you started:
 </p>
 
 <h2>Learning ... </h2>
-<p>
-    <a href="https://www.typescriptlang.org/"><img height="85" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></a>&nbsp;&nbsp;
-    <a href="https://nextjs.org/"><img height="85" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/"><img height="85" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></a>&nbsp;&nbsp;
 
 
-</p>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
+
+
 
 
