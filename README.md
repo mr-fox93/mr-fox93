@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,git,vite,vscode,react,styledcomponents,figma,html,css,)](https://skillicons.dev)
 
 <p>
-    <a href="https://reactjs.org/"><img height="85" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></a>&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="85" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></a>&nbsp;&nbsp;
+<!--     <a href="https://reactjs.org/"><img height="85" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></a>&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="85" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></a>&nbsp;&nbsp; -->
  <a href="https://styled-components.com/"><img height="85" src="https://styled-components.com/logo.png"></a>&nbsp;&nbsp;
   <a href="https://mui.com/"><img height="85" src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4"></a>&nbsp;&nbsp;
  <a href="https://semantic-ui.com/"><img height="85" src="https://react.semantic-ui.com/logo.png"></a>&nbsp;&nbsp;
