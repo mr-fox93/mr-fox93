@@ -5,6 +5,8 @@
 <p>Rick&Morthy / React.js / JS: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
 <p>Unsplash API / React.js / TS: https://mr-fox93.github.io/unsplash/</p>
 
+<p> HACKHATON / using openai to generate dumpling recepies / only mobile view: https://nerdbord.github.io/pierogator-app-lpwyyiux/ <p>
+
 
 <a href="https://www.codewars.com/users/mr-fox93">![Codewars Badge](https://www.codewars.com/users/mr-fox93/badges/large?theme=light)</a>
 
