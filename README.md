@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-<h1>My fav projects 🌱</h1>
+As part of a 17-member team, I am working on a project that leverages the Next.js 14 framework. Our tech stack includes React Server Components, Server Actions, and TypeScript. My role in this project involves collaborating within this tech framework to contribute to the overall development and success of the project.
+
+🌐 Live Project: https://www.devhunting.co/
+
+🔗 GitHub Repository: https://github.com/nerdbord/good-dev-hunting-app
+
+<h1>Projects 🌱</h1>
 <p></p>GAME APP / React.js / TS: https://mr-fox93.github.io/GameHub/</p>
 <p>Rick&Morthy / React.js / JS: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
 <p>Unsplash API / React.js / TS: https://mr-fox93.github.io/unsplash/</p>
