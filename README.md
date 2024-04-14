@@ -31,13 +31,8 @@ Here are some ideas to get you started:
 -->
 <h1>Working with:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,vite,vscode,react,styledcomponents,figma,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,vite,vscode,react,styledcomponents,figma,html,css,nodejs,nextjs,tailwind)](https://skillicons.dev)
 
-
-<h2>Learning ... </h2>
-
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
 
 
 
