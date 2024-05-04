@@ -8,8 +8,8 @@ As part of a 17-member team, I am working on a project that leverages the Next.j
 
 <h1>Projects 🌱</h1>
 <p></p>GAME APP / React.js / TS: https://mr-fox93.github.io/GameHub/</p>
-<p>Rick&Morthy / React.js / JS: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
 <p>Unsplash API / React.js / TS: https://mr-fox93.github.io/unsplash/</p>
+<p>Rick&Morthy / React.js / JS: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
 
 <h1>Working with:</h1>
 
