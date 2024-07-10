@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there 👋 </h1>
 
 As part of a 17-member team, I am working on a project that leverages the Next.js 14 framework. Our tech stack includes React Server Components, Server Actions, and TypeScript. My role in this project involves collaborating within this tech framework to contribute to the overall development and success of the project.
 
@@ -6,7 +6,11 @@ As part of a 17-member team, I am working on a project that leverages the Next.j
 
 🔗 GitHub Repository: https://github.com/nerdbord/good-dev-hunting-app
 
-<h1>Projects 🌱</h1>
+<h2>Team Project:</h2>
+<p>Cloud Store / React.js / TS / Supabase : https://cloud-store-gray.vercel.app/</p>
+<p>Gastro Guru / React.js / TS / OpenAI API : https://nerdbord.github.io/ai-hackathon-project-lvgyakzf/</p>
+
+<h3>Projects 🌱</h3>
 <p></p>GAME APP / React.js / TS: https://mr-fox93.github.io/GameHub/</p>
 <p>Unsplash API / React.js / TS: https://mr-fox93.github.io/unsplash/</p>
 <p>Rick&Morthy / React.js / JS: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
