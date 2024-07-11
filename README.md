@@ -1,6 +1,6 @@
 <h1>Hi there 👋 </h1>
 
-As part of a 17-member team, I am working on a project that leverages the Next.js 14 framework. Our tech stack includes React Server Components, Server Actions, and TypeScript. My role in this project involves collaborating within this tech framework to contribute to the overall development and success of the project.
+As part of a 19-member team, I am working on a project that leverages the Next.js 14 framework. Our tech stack includes React Server Components, Server Actions, and TypeScript. My role in this project involves collaborating within this tech framework to contribute to the overall development and success of the project.
 
 🌐 Live Project: https://www.devhunting.co/
 
