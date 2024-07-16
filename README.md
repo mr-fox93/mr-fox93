@@ -6,7 +6,7 @@ As part of a 19-member team, I am working on a project that leverages the Next.j
 
 🔗 GitHub Repository: https://github.com/nerdbord/good-dev-hunting-app
 
-<h2>Team Project:</h2>
+<h2>Team Project: </h2>
 <p>Cloud Store / React.js / TS / Supabase : https://cloud-store-gray.vercel.app/</p>
 <p>Gastro Guru / React.js / TS / OpenAI API : https://nerdbord.github.io/ai-hackathon-project-lvgyakzf/</p>
 
@@ -15,7 +15,6 @@ As part of a 19-member team, I am working on a project that leverages the Next.j
 <p>Unsplash API / React.js / TS: https://mr-fox93.github.io/unsplash/</p>
 <p>Rick&Morthy / React.js / JS: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
 
-<h1>Working with:</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,git,vite,vscode,react,styledcomponents,figma,html,css,nodejs,nextjs,tailwind)](https://skillicons.dev)
 
