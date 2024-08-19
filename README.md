@@ -10,7 +10,7 @@ As part of a 19-member team, I am working on a project that leverages the Next.j
 <p>Cloud Store / React.js / TS / Supabase : https://cloud-store-gray.vercel.app/</p>
 <p>Gastro Guru / React.js / TS / OpenAI API : https://nerdbord.github.io/ai-hackathon-project-lvgyakzf/</p>
 
-<h3>Projects 🌱</h3>
+<h3>Projects: </h3>
 <p></p>GAME APP / React.js / TS: https://mr-fox93.github.io/GameHub/</p>
 <p>Unsplash API / React.js / TS: https://mr-fox93.github.io/unsplash/</p>
 <p>Rick&Morthy / React.js / JS: https://mr-fox93.github.io/Rick-Morthy-React-Wiki/ </p>
