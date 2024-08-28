@@ -8,7 +8,6 @@ As part of a 19-member team, I am working on a project that leverages the Next.j
 
 <h2>Team Project: </h2>
 <p>Cloud Store / React.js / TS / Supabase : https://cloud-store-gray.vercel.app/</p>
-<p>Gastro Guru / React.js / TS / OpenAI API : https://nerdbord.github.io/ai-hackathon-project-lvgyakzf/</p>
 
 <h3>Projects: </h3>
 <p></p>GAME APP / React.js / TS: https://mr-fox93.github.io/GameHub/</p>
