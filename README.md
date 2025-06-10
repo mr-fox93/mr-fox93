@@ -5,14 +5,14 @@
 ---
 
 <h2>✨ My Work</h2>
-<p align="center">
+<p>
   A quick overview of my recent projects, showcasing my skills and dedication.
 </p>
 
 ### 💼 Commercial Projects
 
 #### Good Dev Hunting (GDH)
-<div align="center">
+<div>
   <a href="https://www.devhunting.co/devs" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-devhunting.co-blue?style=for-the-badge" alt="Live Website">
   </a>
@@ -21,7 +21,7 @@
 </div>
 
 #### Barberbus.pl
-<div align="center">
+<div>
   <a href="https://barberbus.pl/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-barberbus.pl-blue?style=for-the-badge" alt="Live Website">
   </a>
@@ -32,7 +32,7 @@
 ### 🚀 Personal Project
 
 #### Languito.eu
-<div align="center">
+<div>
   <a href="https://www.languito.eu/pl" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-languito.eu-blue?style=for-the-badge" alt="Live Website">
   </a>
@@ -44,7 +44,7 @@
 
 ## 🛠️ My Tech Stack
 
-<div align="center">
+<div>
   <h3>Technologies & Libraries</h3>
   <p>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
