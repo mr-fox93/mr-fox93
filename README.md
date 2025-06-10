@@ -32,7 +32,7 @@
 
 ### 🚀 Personal Project
 
-#### **Languito.eu
+#### Languito.eu
 <div>
   <a href="https://www.languito.eu/pl" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-languito.eu-blue?style=for-the-badge" alt="Live Website">
@@ -46,7 +46,7 @@
 ## 🛠️ My Tech Stack
 
 <div>
-  <h3>Technologies & Libraries</h3>
+  <h2>Technologies & Libraries</h2>
   <p>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk">
 
 
-  <h3>Skills</h3>
+  <h2>Skills</h2>
   <p>
     <img src="https://img.shields.io/badge/Pixel--Perfect_UI-orange?style=for-the-badge" alt="Pixel-Perfect UI Implementation">
     <img src="https://img.shields.io/badge/Responsive_Web_Design-brightgreen?style=for-the-badge" alt="Responsive Web Design (RWD)">
