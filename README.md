@@ -14,28 +14,31 @@
 
 #### **1. Good Dev Hunting (GDH)**
 <div>
+  <a href="https://www.devhunting.co/devs" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Site-devhunting.co-blue?style=for-the-badge" alt="Live Website">
+  </a>
   
-  [![Live Website](https://img.shields.io/badge/🌐_Live_Site-devhunting.co-blue?style=for-the-badge)](https://www.devhunting.co/devs)
   [![GitHub Repository](https://img.shields.io/badge/💻_Repository-good--dev--hunting--app-gray?style=for-the-badge&logo=github)](https://github.com/nerdbord/good-dev-hunting-app)
-  
 </div>
 
 #### **2. Barberbus.pl**
 <div>
+  <a href="https://barberbus.pl/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Site-barberbus.pl-blue?style=for-the-badge" alt="Live Website">
+  </a>
   
-  [![Live Website](https://img.shields.io/badge/🌐_Live_Site-barberbus.pl-blue?style=for-the-badge)](https://barberbus.pl/)
   [![GitHub Repository](https://img.shields.io/badge/💻_Repository-barber--shop-gray?style=for-the-badge&logo=github)](https://github.com/mr-fox93/barber-shop)
-  
 </div>
 
 ### 🚀 Personal Project
 
 #### **Languito.eu**
 <div>
+  <a href="https://www.languito.eu/pl" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Site-languito.eu-blue?style=for-the-badge" alt="Live Website">
+  </a>
   
-  [![Live Website](https://img.shields.io/badge/🌐_Live_Site-languito.eu-blue?style=for-the-badge)](https://www.languito.eu/pl)
   [![GitHub Repository](https://img.shields.io/badge/💻_Repository-next--lang--ai--app-gray?style=for-the-badge&logo=github)](https://github.com/mr-fox93/next-lang-ai-app)
-  
 </div>
 
 ---
