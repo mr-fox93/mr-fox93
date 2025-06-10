@@ -12,7 +12,7 @@
 
 ### 💼 Commercial Projects
 
-#### **1. Good Dev Hunting (GDH)**
+#### Good Dev Hunting (GDH)**
 <div>
   <a href="https://www.devhunting.co/devs" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-devhunting.co-blue?style=for-the-badge" alt="Live Website">
@@ -21,7 +21,7 @@
   [![GitHub Repository](https://img.shields.io/badge/💻_Repository-good--dev--hunting--app-gray?style=for-the-badge&logo=github)](https://github.com/nerdbord/good-dev-hunting-app)
 </div>
 
-#### **2. Barberbus.pl**
+#### Barberbus.pl**
 <div>
   <a href="https://barberbus.pl/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-barberbus.pl-blue?style=for-the-badge" alt="Live Website">
