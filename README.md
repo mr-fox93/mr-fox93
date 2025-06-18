@@ -40,6 +40,21 @@
   [![GitHub Repository](https://img.shields.io/badge/💻_Repository-next--lang--ai--app-gray?style=for-the-badge&logo=github)](https://github.com/mr-fox93/next-lang-ai-app)
 </div>
 
+#### Game Fan
+<div>
+<a href="https://game-fan.netlify.app" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Site-Game Fun-blue?style=for-the-badge" alt="Live Website">
+
+</a>
+
+  
+  [![GitHub Repository](https://img.shields.io/badge/💻_Repository-game--fan-gray?style=for-the-badge&logo=github)](https://github.com/mr-fox93/GameHub)
+
+
+
+  
+</div>
+
 ---
 
 ## 🛠️ My Tech Stack
