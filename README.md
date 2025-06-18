@@ -11,7 +11,7 @@
 
 ### 💼 Commercial Projects
 
-#### Good Dev Hunting (GDH)
+#### 🟦 Good Dev Hunting (GDH)
 <div>
   <a href="https://www.devhunting.co/devs" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-devhunting.co-blue?style=for-the-badge" alt="Live Website">
@@ -20,7 +20,7 @@
   [![GitHub Repository](https://img.shields.io/badge/💻_Repository-good--dev--hunting--app-gray?style=for-the-badge&logo=github)](https://github.com/nerdbord/good-dev-hunting-app)
 </div>
 
-#### Barberbus.pl
+#### 🟦 Barberbus.pl
 <div>
   <a href="https://barberbus.pl/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-barberbus.pl-blue?style=for-the-badge" alt="Live Website">
@@ -31,7 +31,7 @@
 
 ### 🚀 Personal Project
 
-#### Languito.eu
+#### 🟦 Languito.eu
 <div>
   <a href="https://www.languito.eu/pl" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Site-languito.eu-blue?style=for-the-badge" alt="Live Website">
@@ -40,7 +40,7 @@
   [![GitHub Repository](https://img.shields.io/badge/💻_Repository-next--lang--ai--app-gray?style=for-the-badge&logo=github)](https://github.com/mr-fox93/next-lang-ai-app)
 </div>
 
-#### Game Fan
+#### 🟦 Game Fan
 <div>
 <a href="https://game-fan.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Live_Site-Game Fun-blue?style=for-the-badge" alt="Live Website">
